@@ -37,6 +37,8 @@ npm start
 ### Contributors
 [Felipe Moura] (https://github.com/felipemouradev)
 [Marcio Frazao Eda] (https://https://github.com/lubugahdyn)
+[Thiago Simoes] (https://github.com/ThiagoSS93)
+
 
 
 
