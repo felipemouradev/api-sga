@@ -34,8 +34,10 @@ _you'll likely be consuming mongodb as a service, so make sure you set the env v
 npm start
 ```
 
-
+### Contributors
+[Felipe Moura] (https://github.com/felipemouradev)
 
 
 
 --------------------------------------------------------------------------------
+
