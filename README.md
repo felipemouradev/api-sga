@@ -36,6 +36,7 @@ npm start
 
 ### Contributors
 [Felipe Moura] (https://github.com/felipemouradev)
+[Thiago Simoes] (https://github.com/ThiagoSS93)
 
 
 
