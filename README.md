@@ -35,7 +35,8 @@ npm start
 ```
 
 ### Contributors
-[Marcio Frazao Eda] (https://github.com/lubugahdyn)
+[Felipe Moura] (https://github.com/felipemouradev)
+[Marcio Frazao Eda] (https://https://github.com/lubugahdyn)
 
 
 
